@@ -2,4 +2,4 @@ List Fakultas UNBAJA
   -filkom
   -teknik
   -perpajakan
-  -perminyakan
+  -ekonomi
