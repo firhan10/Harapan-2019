@@ -1,4 +1,4 @@
 List Pembelajaran
   -design
-  -network
-  -programming
+  -masak
+  -bengkel
