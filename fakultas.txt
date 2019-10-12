@@ -1,4 +1,5 @@
 List Fakultas UNBAJA
   -filkom
   -teknik
-  -pendidikan
+  -nuklir
+  -ekonomi
